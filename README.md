@@ -6,12 +6,12 @@ This is a project developed in React using Typescript, aiming to be a single pag
 
 Create a .env file in the root of your project and define the variables below.
 
-REACT_APP_INTERVAL_TIME REACT_APP_API_URL
+REACT_APP_INTERVAL_TIME, REACT_APP_API_URL
 
 ### Example:
 
-REACT_APP_INTERVAL_TIME=15
-REACT_APP_API_URL=https://api.factoryfour.com
+REACT_APP_INTERVAL_TIME=15<br>
+REACT_APP_API_URL=https://api.factoryfour.com<br>
 
 ## To run the project
 
